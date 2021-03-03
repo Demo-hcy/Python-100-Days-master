@@ -24,7 +24,7 @@ class Account(object):
         return self._balance
 
 
-class AddMoneyThread(Thread):
+class AddMoneyThread(Thread):# 加钱
 
     def __init__(self, account, money):
         super().__init__()
