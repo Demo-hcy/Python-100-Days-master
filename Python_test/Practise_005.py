@@ -9,4 +9,4 @@ print(items)
 
 items = [12, 5, 7, 10, 8, 19]
 items = [x ** 2 for x in items if x % 2]
-print(items)    # [25, 49, 361]
+print(items)   
