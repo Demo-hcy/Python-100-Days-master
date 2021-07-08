@@ -7,3 +7,7 @@ print(adist.update({'b':4}),adist.update({'c':5}),adist)
 print(adist.setdefault('d',0),adist.setdefault('a'),adist)
 print(adist.pop('d'),adist)
 print(adist.popitem(),adist)
+
+
+
+
